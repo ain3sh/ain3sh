@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ainesh
 
-### *I code often and sleep occasionally. Going to help invent AGI or die trying.*
+### *I code often and sleep occasionally.*
 
 I swear I'm going to get around to building an actual portfolio website (maybe).
 
