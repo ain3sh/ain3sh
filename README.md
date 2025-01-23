@@ -29,7 +29,7 @@ I swear I'm going to get around to building an actual portfolio website (maybe).
 ---
 
 ### 🌱 **Currently Learning**
-- **NLP**, **Linear Algebra**, **Transformers**, **Probability Theory**, and **Cryptography**.
+- **Quantum Computing**, **Transform Methods**, **Test-Time Compute Optimization**, and **Cryptography**.
 - How to build **productive LLM agents** so I can finally reduce my caffeine intake (wish me luck 🤞).
 
 ---
