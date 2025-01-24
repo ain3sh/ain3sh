@@ -2,7 +2,7 @@
 
 ### *I code often and sleep occasionally.*
 
-I **finally** built a portfolio site. No more excuses. [**Check it out → ain3sh.com**](https://ain3sh.com) 
+I **finally** built a portfolio site. **Check it out →** [**ain3sh.com**](https://ain3sh.com) 
 
 ---
 
