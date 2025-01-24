@@ -2,7 +2,7 @@
 
 ### *I code often and sleep occasionally.*
 
-I swear I'm going to get around to building an actual portfolio website (maybe).
+I **finally** built a portfolio site. No more excuses. [**Check it out → ain3sh.com**](https://ain3sh.com) 
 
 ---
 
